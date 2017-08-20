@@ -7,3 +7,5 @@
 /app
 /captures
 .externalNativeBuild
+*/build
+*/libs
